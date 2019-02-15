@@ -22,5 +22,5 @@ Materials:
 - various stones, pieces of wood
 - acrylic paint
 
-
+&nbsp;
 If you would like to read more, please visit my blog posting about the [build process.](http://davidposts.com/2019/02/14/Building-Lumenary-for-the-Portland-Winter-Light-Festival/)
