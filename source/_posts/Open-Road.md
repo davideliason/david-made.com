@@ -1,7 +1,7 @@
 ---
 title: Open Road
 date: 2013-06-15 12:33:01
-cover_index: "https://s3-us-west-2.amazonaws.com/david-made.com/img/open_road_450_450.jpg"
+cover_index: "https://s3-us-west-2.amazonaws.com/david-made.com/img/open_road_true_450_450.jpg"
 tags:
 - Art
 - Wood
